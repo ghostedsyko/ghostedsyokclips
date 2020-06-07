@@ -1,9 +1,10 @@
 # default configuration
-baseURL = "http://examplesite.com"
+baseURL = "https://ghostedsyko.github.io/ghostedsyokclips/"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross"
 title = "Kross | Hugo Portfolio Template"
+publishdir = "docs"
 
 # css plugins
 [[params.plugins.css]]
